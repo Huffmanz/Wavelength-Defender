@@ -1,1 +1,6 @@
 gdd.md
+
+# Ignore all dotfiles
+.*
+# Except .gitignore 
+!.gitignore
